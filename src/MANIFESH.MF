@@ -1,0 +1,3 @@
+Manifesh-Version: 1.0
+Class-Pash: lib/mysql.jar
+Main-Class: fei.test.test
